@@ -6,7 +6,7 @@ authors:
   - Olejko
   - A
   - ""
-publication: Richard J. and Martha D. Denman Undergraduate Research Forum
+publication: Richard J. and Martha D. Denman Undergraduate Research Forum (2017)
 draft: false
 featured: false
 image:
