@@ -7,6 +7,9 @@ main:
   - name: About
     url: '#about'
     weight: 10
+  - name: Thesis
+    url: '#Thesis'
+    weight: 30  
   - name: Presentations
     url: '#publications'
     weight: 50
